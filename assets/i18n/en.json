@@ -1,0 +1,29 @@
+{
+  "app_title": "ArkadasAI",
+  "get_started": "Get Started",
+  "already_have_account": "Already have an account",
+  "privacy": "Privacy",
+  "terms": "Terms",
+  "username": "Username",
+  "date_of_birth": "Date of birth",
+  "gender": "Gender",
+  "gender_woman": "Female",
+  "gender_man": "Male",
+  "gender_unspecified": "Prefer not to say",
+  "preferred_gender": "Preferred gender to chat",
+  "preferred_woman": "Female",
+  "preferred_man": "Male",
+  "preferred_both": "Both",
+  "language": "Language",
+  "login": "Login",
+  "guest_login": "Guest Login",
+  "free_plan": "Free",
+  "plus_plan": "Plus",
+  "pro_plan": "Pro",
+  "continue_free": "Continue (Free)",
+  "upgrade": "Upgrade",
+  "later": "Later"
+  ,"limit_exceeded_title": "Limit exceeded"
+  ,"limit_exceeded_message": "Message limit exceeded for Free users. Please upgrade."
+  ,"type_message_hint": "Type your message..."
+}

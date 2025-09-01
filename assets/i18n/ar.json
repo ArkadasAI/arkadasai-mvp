@@ -1,0 +1,29 @@
+{
+  "app_title": "أركداش ايه اي",
+  "get_started": "لنبدأ",
+  "already_have_account": "لدي حساب بالفعل",
+  "privacy": "الخصوصية",
+  "terms": "الشروط",
+  "username": "اسم المستخدم",
+  "date_of_birth": "تاريخ الميلاد",
+  "gender": "الجنس",
+  "gender_woman": "أنثى",
+  "gender_man": "ذكر",
+  "gender_unspecified": "لا أرغب في القول",
+  "preferred_gender": "الجنس المفضل للدردشة",
+  "preferred_woman": "أنثى",
+  "preferred_man": "ذكر",
+  "preferred_both": "كلاهما",
+  "language": "اللغة",
+  "login": "تسجيل الدخول",
+  "guest_login": "تسجيل ضيف",
+  "free_plan": "مجاني",
+  "plus_plan": "بلس",
+  "pro_plan": "برو",
+  "continue_free": "استمر (مجاني)",
+  "upgrade": "ترقية",
+  "later": "لاحقاً"
+  ,"limit_exceeded_title": "تم تجاوز الحد"
+  ,"limit_exceeded_message": "تم تجاوز الحد للمستخدمين المجانيين. الرجاء الترقية."
+  ,"type_message_hint": "اكتب رسالتك..."
+}

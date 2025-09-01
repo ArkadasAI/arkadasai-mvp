@@ -1,0 +1,29 @@
+{
+  "app_title": "ArkadaşAI",
+  "get_started": "Başlayalım",
+  "already_have_account": "Zaten hesabım var",
+  "privacy": "Gizlilik",
+  "terms": "Sözleşme",
+  "username": "Kullanıcı adı",
+  "date_of_birth": "Doğum tarihi",
+  "gender": "Cinsiyet",
+  "gender_woman": "Kadın",
+  "gender_man": "Erkek",
+  "gender_unspecified": "Belirtmek istemiyorum",
+  "preferred_gender": "Konuşmak istediği cinsiyet",
+  "preferred_woman": "Kadın",
+  "preferred_man": "Erkek",
+  "preferred_both": "Her ikisi",
+  "language": "Dil",
+  "login": "Giriş",
+  "guest_login": "Misafir Giriş",
+  "free_plan": "Ücretsiz",
+  "plus_plan": "Plus",
+  "pro_plan": "Pro",
+  "continue_free": "Devam (Free)",
+  "upgrade": "Yükselt",
+  "later": "Daha sonra"
+  ,"limit_exceeded_title": "Limit Aşıldı"
+  ,"limit_exceeded_message": "Ücretsiz kullanıcılar için mesaj limiti aşıldı. Lütfen yükseltin."
+  ,"type_message_hint": "Mesajınızı yazın..."
+}
